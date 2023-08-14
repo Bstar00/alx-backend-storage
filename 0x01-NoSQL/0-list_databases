@@ -1,0 +1,2 @@
+// Commnand to list Databases in NoSQL shell
+show dbs
