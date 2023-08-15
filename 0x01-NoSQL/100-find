@@ -1,0 +1,2 @@
+// Find in collection uisng  regex(regular expression)
+db.school.find({"name": {"$regex": /^Holberton/}})
